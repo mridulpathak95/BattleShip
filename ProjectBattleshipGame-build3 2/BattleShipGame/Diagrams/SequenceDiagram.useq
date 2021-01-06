@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.2.3" icons="true" generate-combined-fragments="true">  
+  <object id="1" language="java" name="application.Battleship_Grid_Pane" project="BattleShipGame" 
+    file="/BattleShipGame/src/application/Battleship_Grid_Pane.java" binary="false" label="battleship_Grid_Pane" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="139" y="0"/>    
+    <execution id="2">      
+      <position height="84" width="0" x="0" y="78"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="21" width="0" x="0" y="120"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="84" width="0" x="0" y="188"/>    
+    </execution>    
+    <execution id="7">      
+      <position height="21" width="0" x="0" y="230"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="84" width="0" x="0" y="303"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="21" width="0" x="0" y="345"/>    
+    </execution>    
+    <execution id="11">      
+      <position height="84" width="0" x="0" y="411"/>    
+    </execution>    
+    <execution id="13">      
+      <position height="21" width="0" x="0" y="453"/>    
+    </execution>    
+    <execution id="14">      
+      <position height="84" width="0" x="0" y="516"/>    
+    </execution>    
+    <execution id="16">      
+      <position height="21" width="0" x="0" y="558"/>    
+    </execution>    
+    <execution id="17">      
+      <position height="84" width="0" x="0" y="678"/>    
+    </execution>    
+    <execution id="19">      
+      <position height="21" width="0" x="0" y="720"/>    
+    </execution>    
+    <execution id="20">      
+      <position height="84" width="0" x="0" y="797"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="21" width="0" x="0" y="839"/>    
+    </execution>    
+    <execution id="23">      
+      <position height="84" width="0" x="0" y="913"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="21" width="0" x="0" y="955"/>    
+    </execution>    
+    <execution id="26">      
+      <position height="84" width="0" x="0" y="1023"/>    
+    </execution>    
+    <execution id="28">      
+      <position height="21" width="0" x="0" y="1065"/>    
+    </execution>    
+    <execution id="29">      
+      <position height="84" width="0" x="0" y="1123"/>    
+    </execution>    
+    <execution id="31">      
+      <position height="21" width="0" x="0" y="1165"/>    
+    </execution>    
+    <execution id="32">      
+      <position height="84" width="0" x="0" y="1223"/>    
+    </execution>    
+    <execution id="34">      
+      <position height="21" width="0" x="0" y="1265"/>    
+    </execution>  
+  </object>  
+  <object id="35" language="java" name="application.AlertBox" project="BattleShipGame" 
+    file="/BattleShipGame/src/application/AlertBox.java" binary="false" label="alertBox" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="139" y="0"/>    
+    <execution id="36">      
+      <position height="84" width="0" x="0" y="121"/>    
+    </execution>    
+    <execution id="38">      
+      <position height="21" width="0" x="0" y="163"/>    
+    </execution>    
+    <execution id="39">      
+      <position height="84" width="0" x="0" y="265"/>    
+    </execution>    
+    <execution id="41">      
+      <position height="21" width="0" x="0" y="307"/>    
+    </execution>    
+    <execution id="42">      
+      <position height="84" width="0" x="0" y="419"/>    
+    </execution>    
+    <execution id="44">      
+      <position height="21" width="0" x="0" y="461"/>    
+    </execution>  
+  </object>  
+  <object id="45" language="java" name="application.InputBox" project="BattleShipGame" 
+    file="/BattleShipGame/src/application/InputBox.java" binary="false" label="inputBox" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="139" y="0"/>    
+    <execution id="46">      
+      <position height="84" width="0" x="0" y="117"/>    
+    </execution>    
+    <execution id="48">      
+      <position height="21" width="0" x="0" y="159"/>    
+    </execution>    
+    <execution id="49">      
+      <position height="84" width="0" x="0" y="356"/>    
+    </execution>    
+    <execution id="51">      
+      <position height="21" width="0" x="0" y="398"/>    
+    </execution>  
+  </object>  
+  <object id="52" language="java" name="application.ConfirmBox" project="BattleShipGame" 
+    file="/BattleShipGame/src/application/ConfirmBox.java" binary="false" label="confirmBox" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="139" y="0"/>    
+    <execution id="53">      
+      <position height="84" width="0" x="0" y="195"/>    
+    </execution>    
+    <execution id="55">      
+      <position height="21" width="0" x="0" y="237"/>    
+    </execution>    
+    <execution id="56">      
+      <position height="84" width="0" x="0" y="448"/>    
+    </execution>    
+    <execution id="58">      
+      <position height="21" width="0" x="0" y="490"/>    
+    </execution>  
+  </object>  
+  <object id="59" language="java" name="application.GridUser" project="BattleShipGame" 
+    file="/BattleShipGame/src/application/GridUser.java" binary="false" label="gridUser" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="554" y="0"/>    
+    <execution id="60">      
+      <position height="84" width="0" x="0" y="78"/>    
+    </execution>    
+    <execution id="62">      
+      <position height="21" width="0" x="0" y="120"/>    
+    </execution>    
+    <execution id="63">      
+      <position height="84" width="0" x="0" y="184"/>    
+    </execution>    
+    <execution id="65">      
+      <position height="21" width="0" x="0" y="226"/>    
+    </execution>    
+    <execution id="66">      
+      <position height="84" width="0" x="0" y="283"/>    
+    </execution>    
+    <execution id="68">      
+      <position height="21" width="0" x="0" y="325"/>    
+    </execution>    
+    <execution id="69">      
+      <position height="84" width="0" x="0" y="382"/>    
+    </execution>    
+    <execution id="71">      
+      <position height="21" width="0" x="0" y="424"/>    
+    </execution>    
+    <execution id="72">      
+      <position height="84" width="0" x="0" y="499"/>    
+    </execution>    
+    <execution id="74">      
+      <position height="21" width="0" x="0" y="541"/>    
+    </execution>    
+    <execution id="75">      
+      <position height="84" width="0" x="0" y="595"/>    
+    </execution>    
+    <execution id="77">      
+      <position height="21" width="0" x="0" y="637"/>    
+    </execution>    
+    <execution id="78">      
+      <position height="84" width="0" x="0" y="691"/>    
+    </execution>    
+    <execution id="80">      
+      <position height="21" width="0" x="0" y="733"/>    
+    </execution>    
+    <execution id="81">      
+      <position height="84" width="0" x="0" y="780"/>    
+    </execution>    
+    <execution id="83">      
+      <position height="21" width="0" x="0" y="822"/>    
+    </execution>    
+    <execution id="84">      
+      <position height="84" width="0" x="0" y="873"/>    
+    </execution>    
+    <execution id="86">      
+      <position height="21" width="0" x="0" y="915"/>    
+    </execution>    
+    <execution id="87">      
+      <position height="84" width="0" x="0" y="967"/>    
+    </execution>    
+    <execution id="89">      
+      <position height="21" width="0" x="0" y="1009"/>    
+    </execution>  
+  </object>  
+  <message id="3" operation="main(java.lang.String[]):void" asynchronous="false" x="95" y="73">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="6" operation="Battleship_Grid_Pane()" asynchronous="false" x="28" y="170">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="9" operation="battleMenu(javafx.scene.layout.VBox,javafx.stage.Stage):javafx.scene.control.MenuBar" 
+    asynchronous="false" x="11" y="284">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="12" operation="colorShipXCoords(int[],java.lang.String):void" asynchronous="false" x="15" y="394">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="15" operation="colorShipYCoords(int[],java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="16"/>  
+  </message>  
+  <message id="18" operation="deployShipsWithColors(int[],java.lang.String,java.lang.String):void" asynchronous="false" 
+    x="2" y="654">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="21" operation="launchStartupWindow(javafx.stage.Stage):void" asynchronous="false">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="22"/>  
+  </message>  
+  <message id="24" operation="seeResultComp(java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="27" operation="seeResultUser(java.lang.String):void" asynchronous="false">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="28"/>  
+  </message>  
+  <message id="30" operation="setUserRadarGrid():void" asynchronous="false">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="33" operation="setUserShipGrid():void" asynchronous="false">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="34"/>  
+  </message>  
+  <message id="37" operation="displayError(java.lang.String,java.lang.String):void" asynchronous="false" x="140" y="103">    
+    <end type="SOURCE" refId="36"/>    
+    <end type="TARGET" refId="38"/>  
+  </message>  
+  <message id="40" operation="displayResult(java.lang.String,java.lang.String):void" asynchronous="false" x="128" 
+    y="244">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="41"/>  
+  </message>  
+  <message id="43" operation="AlertBox()" asynchronous="false">    
+    <end type="SOURCE" refId="42"/>    
+    <end type="TARGET" refId="44"/>  
+  </message>  
+  <message id="47" operation="display(java.lang.String):java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="46"/>    
+    <end type="TARGET" refId="48"/>  
+  </message>  
+  <message id="50" operation="InputBox()" asynchronous="false">    
+    <end type="SOURCE" refId="49"/>    
+    <end type="TARGET" refId="51"/>  
+  </message>  
+  <message id="54" operation="display(java.lang.String,java.lang.String):java.lang.Boolean" asynchronous="false" x="320" 
+    y="176">    
+    <end type="SOURCE" refId="53"/>    
+    <end type="TARGET" refId="55"/>  
+  </message>  
+  <message id="57" operation="ConfirmBox()" asynchronous="false" x="359" y="427">    
+    <end type="SOURCE" refId="56"/>    
+    <end type="TARGET" refId="58"/>  
+  </message>  
+  <message id="61" operation="Initialize():void" asynchronous="false">    
+    <end type="SOURCE" refId="60"/>    
+    <end type="TARGET" refId="62"/>  
+  </message>  
+  <message id="64" operation="DeployUserGrid(java.lang.String,java.lang.String):java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="63"/>    
+    <end type="TARGET" refId="65"/>  
+  </message>  
+  <message id="67" operation="DeployComputerShips():void" asynchronous="false">    
+    <end type="SOURCE" refId="66"/>    
+    <end type="TARGET" refId="68"/>  
+  </message>  
+  <message id="70" operation="isShipDeployed(java.lang.String):boolean" asynchronous="false">    
+    <end type="SOURCE" refId="69"/>    
+    <end type="TARGET" refId="71"/>  
+  </message>  
+  <message id="73" operation="areAllShipsDeployed():boolean" asynchronous="false">    
+    <end type="SOURCE" refId="72"/>    
+    <end type="TARGET" refId="74"/>  
+  </message>  
+  <message id="76" operation="Userturn(int,int):java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="75"/>    
+    <end type="TARGET" refId="77"/>  
+  </message>  
+  <message id="79" operation="Computerturn():java.lang.String" asynchronous="false">    
+    <end type="SOURCE" refId="78"/>    
+    <end type="TARGET" refId="80"/>  
+  </message>  
+  <message id="82" operation="check(int,int,java.lang.String,int):java.lang.Boolean" asynchronous="false">    
+    <end type="SOURCE" refId="81"/>    
+    <end type="TARGET" refId="83"/>  
+  </message>  
+  <message id="85" operation="CheckIfUserWon():void" asynchronous="false">    
+    <end type="SOURCE" refId="84"/>    
+    <end type="TARGET" refId="86"/>  
+  </message>  
+  <message id="88" operation="CheckIfCompWon():void" asynchronous="false">    
+    <end type="SOURCE" refId="87"/>    
+    <end type="TARGET" refId="89"/>  
+  </message>
+</sequence-diagram>
